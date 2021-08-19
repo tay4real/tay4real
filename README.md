@@ -34,9 +34,9 @@ Here are some ideas to get you started:
    <image src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
      <image src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
      <image src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-     <image src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
+     
      <image src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-    <image src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white"> <br><br>
+     <br><br>
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tay4real&show_icons=true&theme=synthwave) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tay4real&langs_count=3&show_icons=true&theme=synthwave)](https://youtu.be/dQw4w9WgXcQ)
 <!--

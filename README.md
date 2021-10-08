@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### <h1>Hi there 👋</h1>
 
-- 🌱 I’m currently learning at Strive-School as Full-Stack Developer
+- 🌱 I’m a Full Stack Developer graduate at Strive School
 
 - 💬 Feel Free to contact me
 - 📫 How to reach me: tay4real@gmail.com

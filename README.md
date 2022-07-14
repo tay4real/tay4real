@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 ### <h1>Hi there 👋</h1>
 
-- 🌱 I’m a Full Stack Developer graduate at Strive School
+- 🌱 I’m a Software Engineer / Solution Architect
 
 - 💬 Feel Free to contact me
-- 📫 How to reach me: tay4real@gmail.com
+- 📫 How to reach me: ademuyiwaolutayo@gmail.com
 - ⚡ Fun fact: learning has no limit
 - 🤔 I Work with: <br><br> <image src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <image src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />

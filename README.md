@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### <h1>Hi there 👋</h1>
 
-- 🌱 I’m a Software Engineer | Full Stack Developer |Solutions Architect | Data Scientist
+- 🌱 I’m a Software Engineer | Full Stack Developer | Solutions Architect | Data Scientist
 
 - 💬 Feel Free to contact me
 - 📫 How to reach me: ademuyiwaolutayo@gmail.com

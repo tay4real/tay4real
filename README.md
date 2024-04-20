@@ -43,7 +43,7 @@
     <strong>Tools:</strong> Git, GitHub, Visual Studio Code
   </li>
 </ul>
-- 🤔 I Work with: <br><br> <image src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+ <image src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
   <image src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 
@@ -59,11 +59,7 @@
 
    <image src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
-     <image src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-
-     <image src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-
-     <image src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+   
 
      
 
@@ -79,9 +75,6 @@
 </ul>
 
 <h2>Contact</h2>
-- 💬 Feel Free to contact me
-
-- 📫 How to reach me: ademuyiwaolutayo@gmail.com
 <ul>
   <li>Email: <a href="mailto:ademuyiwaolutayo@gmail.com">ademuyiwaolutayo@gmail.com</a></li>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/otubusinademuyiwa/">https://www.linkedin.com/in/otubusinademuyiwa/</a> </li>

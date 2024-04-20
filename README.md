@@ -59,11 +59,11 @@
   <image src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"> <image src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> <image src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">  <image src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <image src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 
    <image src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></p>
- <p> 
+
     ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tay4real&show_icons=true&theme=synthwave) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tay4real&langs_count=3&show_icons=true&theme=synthwave)](https://youtu.be/dQw4w9WgXcQ)
-</p>
+
 
    
 

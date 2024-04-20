@@ -60,8 +60,9 @@
 
    <image src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></p>
  <p> 
-   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tay4real&show_icons=true&theme=synthwave)] 
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tay4real&langs_count=3&show_icons=true&theme=synthwave)](https://youtu.be/dQw4w9WgXcQ)
+    ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tay4real&show_icons=true&theme=synthwave) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tay4real&langs_count=3&show_icons=true&theme=synthwave)](https://youtu.be/dQw4w9WgXcQ)
 </p>
 
    

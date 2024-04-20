@@ -6,7 +6,7 @@
 <h2>Projects and Repositories</h2>
 <ul>
   <li>
-    <strong>MemFile:</strong> <a href="https://memfile.netlify.app" target="_blank">Project Link</a><a href="https://memfile.netlify.app" target="_blank">Repository</a> - A File Management System Web application built with React JS and Node JS using Express JS Framework, featuring a RESTful API and Mongo DB database integration
+    <strong>MemFile:</strong> <a href="https://memfile.netlify.app" target="_blank">Project Link</a> | <a href="#">Repository</a> - A File Management System Web application built with React JS and Node JS using Express JS Framework, featuring a RESTful API and Mongo DB database integration
   </li>
   <li>
     <strong>Pentspace:</strong><a href="#">Project Link</a> | <a href="#">Repository</a> - A Health care services provider mobile application, developed with React Native, with API integrations showcasing a seamless user experience and offline capabilities.

@@ -79,6 +79,9 @@
 </ul>
 
 <h2>Contact</h2>
+- 💬 Feel Free to contact me
+
+- 📫 How to reach me: ademuyiwaolutayo@gmail.com
 <ul>
   <li>Email: <a href="mailto:ademuyiwaolutayo@gmail.com">ademuyiwaolutayo@gmail.com</a></li>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/otubusinademuyiwa/">https://www.linkedin.com/in/otubusinademuyiwa/</a> </li>

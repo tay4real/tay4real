@@ -80,7 +80,7 @@
 <ul>
   <li>Email: <a href="mailto:ademuyiwaolutayo@gmail.com">ademuyiwaolutayo@gmail.com</a></li>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/otubusinademuyiwa/">https://www.linkedin.com/in/otubusinademuyiwa/</a> </li>
-  <li>Twitter: <a href="https://twitter.com/otubusinademuyiwa">https://twitter.com/otubusinademuyiwa</a> </li>
+  <li>Twitter: <a href="https://twitter.com/otubusinad">https://twitter.com/otubusinad</a> </li>
 </ul>
 
 <h2>License</h2>

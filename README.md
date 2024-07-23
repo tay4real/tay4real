@@ -1,6 +1,6 @@
 <h1>Otubusin Ademuyiwa (tay4real)</h1>
 <h2>Introduction</h2>
-<p>Hi, I'm Otubusin Ademuyiwa, a software engineer with a passion for building innovative solutions. You can find me on GitHub as (<a href="https://github.com/tay4real">tay4real</a>).</p>
+<p>CEO & Lead Strategist at Otubusin Ademuyiwa Solutions Ltd. Software engineer & visionary leader empowering individuals & businesses through innovative solutions, knowledge sharing & strategic leadership</p>
 <h2>About Me</h2>
 <p>With a master's degree in Computer  Science and experience in software development, I specialize in building scalable and efficient software applications. My skills include proficiency in PHP, JavaScript, React JS, React Native, MongoDB, MySQL, Node JS, Python and Java.</p>
 <h2>Projects and Repositories</h2>

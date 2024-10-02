@@ -22,7 +22,7 @@
 </ul>
 
 
-<h2>License:</h2> <span>[MIT]</span> 
+<h2>License:</h2> <span>MIT</span> 
 
 <h2>Contributions:</h2>
 <ul>

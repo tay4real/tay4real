@@ -2,7 +2,7 @@
 
 
 <h2>Description:</h2>
-<p>A collection of innovative software solutions, data science projects, and AI-powered applications developed by [Your Name], a seasoned Keynote Speaker, skilled Software Engineer, and Data Scientist.</p>
+<p>A collection of innovative software solutions, data science projects, and AI-powered applications developed by Otubusinn Ademuyiwa, a seasoned Keynote Speaker, skilled Software Engineer, and Data Scientist.</p>
 
 
 <h2>Explore:</h2>

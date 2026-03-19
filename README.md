@@ -35,7 +35,7 @@
 <p>Developed and maintained by Otubusin Ademuyiwa. Connect with me:</p>
 
 <ul>
-  <li>Website: https://otubusinademuyiwa.com.ng</li>
+  <li>Website: https://otubusinademuyiwa.netlify.app</li>
   <li>LinkedIn: https://www.linkedin.com/in/otubusinademuyiwa/</li>
   <li> Twitter: https://x.com/otubusinad</li>
 </ul>

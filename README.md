@@ -1,41 +1,45 @@
-<h1>Otubusin Ademuyiwa (Tay4Real)</h1>
+# Ademuyiwa Otubusin
 
+### Software Engineer • Product Builder • AI/ML Practitioner
 
-<h2>Description:</h2>
-<p>A collection of innovative software solutions, data science projects, and AI-powered applications developed by Otubusin Ademuyiwa, a seasoned Keynote Speaker, skilled Software Engineer, and Data Scientist.</p>
+I build real-world software systems from problem definition and architecture
+through implementation, integration, deployment and iteration.
 
+I have 12+ years of progressive technology experience spanning public-sector
+digital systems, client products, mobile applications and product development.
 
-<h2>Explore:</h2>
-<ul>
-  <li>Custom software development projects</li>
-  <li>Data science and machine learning experiments</li>
-  <li>AI-powered business intelligence solutions</li>
-  <li>Open-source contributions and collaborations</li>
-</ul>
+### What I'm Building
 
+🚀 **OkRide** — Motorcycle ride-hailing platform
+- FastAPI / Python
+- React Native / Expo / TypeScript
+- Supabase / PostgreSQL / RLS
+- Paystack
+- Termii
+- Google Maps APIs
+- Railway / Cloudflare
 
-<h2>Technologies:</h2>
-<ul>
-  <li>Programming languages: Python, Java, JavaScript, PHP</li>
-  <li>Frameworks: React, Express</li>
-  <li>Databases: [MySQL, MongoDB, PostgreSQL]</li>
-</ul>
+### Selected Work
 
+- **OkRide** — Product & Full-Stack Engineering
+- **Verve Creative Studio** — Production Website & Booking Platform
+- **DAANVerified** — Delivery Agent & Merchant Platform
+- **MemFile** — Administrative Workflow Automation
 
-<h2>License:</h2> <span>MIT</span> 
+### Technical Focus
 
-<h2>Contributions:</h2>
-<ul>
-  <li>Issues and feature requests welcome</li>
-  <li>Pull requests encouraged</li>
-</ul>
+Python • FastAPI • PHP • JavaScript/TypeScript • React • React Native
+• Node.js • PostgreSQL • MySQL • MongoDB • REST APIs • Cloud
+• AI-assisted software engineering • Machine Learning
 
-<h2>About:</h2>
+### AI-Assisted Engineering
 
-<p>Developed and maintained by Otubusin Ademuyiwa. Connect with me:</p>
+I use AI as an engineering collaborator for architecture exploration,
+implementation, debugging, root-cause analysis, documentation and
+long-running project workflows, while retaining responsibility for
+engineering decisions, testing and validation.
 
-<ul>
-  <li>Website: https://otubusinademuyiwa.netlify.app</li>
-  <li>LinkedIn: https://www.linkedin.com/in/otubusinademuyiwa/</li>
-  <li> Twitter: https://x.com/otubusinad</li>
-</ul>
+### Connect
+
+🌐 [Portfolio](https://oassolutions.com.ng/ademuyiwa/)
+💼 [LinkedIn](https://www.linkedin.com/in/otubusinao/)
